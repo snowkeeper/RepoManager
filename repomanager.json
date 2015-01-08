@@ -1,3 +1,16 @@
 {
-  "repos": {}
+  "repos": {
+    "keystone": {
+      "name": "keystone",
+      "path": "/home/snow/projects/github/keystone",
+      "branches": [],
+      "status": {}
+    },
+    "keystone2": {
+      "name": "keystone2",
+      "path": "/home/snow/projects/github/keystone2",
+      "branches": [],
+      "status": {}
+    }
+  }
 }
