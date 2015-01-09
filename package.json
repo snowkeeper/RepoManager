@@ -1,9 +1,13 @@
 {
-  "name": "repoman",
+  "name": "repomanager",
   "version": "0.0.1",
-  "private": true,
-  "description": "/home/snow/projects/api.snowcoins.link/package.json",
-  "main": "lib/index.js",
+   "_id": "repomanager@0.0.1",
+  "private": false,
+  "description": "",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": ""
